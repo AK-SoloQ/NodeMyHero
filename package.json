@@ -1,0 +1,40 @@
+{
+  "name": "mdeal",
+  "version": "0.2.5",
+  "description": "A barebones Node.js app using Express 4 for meal and deal application",
+  "engines": {
+    "node": "6.0.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cool-ascii-faces": "1.3.4",
+    "ejs": "2.4.1",
+    "mongodb": "2.2.25",
+    "mongoose": "4.9.1",
+    "body-parser": "^1.15.2",
+    "cloudinary": "^1.4.4",
+    "connect-multiparty": "^2.0.0",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdeal"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+    "cloudinary",
+    "nodejs",
+    "api",
+    "heroku",
+    "mongodb",
+    "photo-upload"
+  ],
+  "license": "MIT"
+}

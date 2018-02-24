@@ -1,0 +1,8 @@
+{
+  "name": "MDeal",
+  "description": "A barebones Node.js app using Express 4 for meal and deal application",
+  "repository": "https://github.com/meal",
+  "logo": "https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/1448432/580/386/m1/fpnw/wm0/2-.jpg?1468384336&s=ced8bcbf7e96e94fd89a9d7162986daa",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
